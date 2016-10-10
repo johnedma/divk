@@ -3,3 +3,16 @@ body
 background-color:#FF4262;
 font-family:'Bungee Shade';
 }
+
+.navbar {
+  background-color: white;
+  color: black;
+}
+
+#rainbow {
+  height: 10%;
+  width: 10%;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
