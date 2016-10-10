@@ -2,6 +2,38 @@ body
 {
 background-color:#FF4262;
 font-family:'Bungee Shade';
+padding-top: 50px;
+}
+
+#whocares {
+  background-color:#16DEEE;
+  font-family: 'Bungee Shade';
+  padding-top: 50px;
+}
+
+
+h1 {
+  /*padding-left: 15px;*/
+  text-decoration: underline;
+  text-align: center;
+}
+
+#subheader {
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+
+h2 {
+  padding-left: 15px;
+  text-align: center;
+
+}
+
+#break {
+  margin: 50px;
+  background-color: black;
+  font-family: serif;
 }
 
 .navbar {

@@ -8,6 +8,10 @@ server.get("/", function(request, response){
   response.sendFile("public/html/index.html", {root: __dirname});
 });
 
+server.get("/whocares", function(request, response){
+  response.sendFile('public/html/whocares.html', { root: __dirname });
+});
+
 server.listen(port, function(){
   console.log("Now listening on port...", port);
 });
